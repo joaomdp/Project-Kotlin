@@ -23,4 +23,4 @@ Bem-vindo ao repositório do meu projeto de previsão do tempo, desenvolvido com
 
 ## Referências 🎓
 
-Este projeto foi inspirado por um tutorial disponível no YouTube, que serviu de base para a implementação das principais funcionalidades. Confira o tutorial [aqui]([https://www.youtube.com/watch?v=OybehG-rlm0](https://www.youtube.com/watch?v=QFGKV8j2ulY)).
+Este projeto foi inspirado por um tutorial disponível no YouTube, que serviu de base para a implementação das principais funcionalidades. Confira o tutorial [aqui](https://www.youtube.com/watch?v=QFGKV8j2ulY).
